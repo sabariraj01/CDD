@@ -5,3 +5,9 @@
 OpenCV: Used for image processing and user interface interactions.
 Pandas: Utilized for managing and querying the color database.
 
+# Usage
+->Install the required dependencies:
+  pip install opencv-python pandas
+->Run the color detection script:
+  python color_detection.py
+->Double-click on the image to interactively detect and display color information.
