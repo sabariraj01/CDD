@@ -12,3 +12,9 @@ Pandas: Utilized for managing and querying the color database.
     python color_detection.py  
     
 *Double-click on the image to interactively detect and display color information.*   
+
+# Color Database
+The color database is stored in a CSV file (colors.csv) with columns: "Color", "Color_name", "Hex", "R", "G", "B".  
+
+# Contributions
+Contributions to the project are welcome. Feel free to open issues, suggest improvements, or submit pull requests.  
