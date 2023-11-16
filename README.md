@@ -7,7 +7,8 @@ Pandas: Utilized for managing and querying the color database.
 
 # Usage
 ->Install the required dependencies:  
-  pip install opencv-python pandas  
+    pip install opencv-python pandas  
 ->Run the color detection script:  
-  python color_detection.py  
-->Double-click on the image to interactively detect and display color information.  
+    python color_detection.py  
+    
+*Double-click on the image to interactively detect and display color information.*   
