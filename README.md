@@ -18,3 +18,5 @@ The color database is stored in a CSV file (colors.csv) with columns: "Color", "
 
 # Contributions
 Contributions to the project are welcome. Feel free to open issues, suggest improvements, or submit pull requests.  
+
+
