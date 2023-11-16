@@ -16,6 +16,10 @@ Pandas: Utilized for managing and querying the color database.
 # Color Database
 The color database is stored in a CSV file (colors.csv) with columns: "Color", "Color_name", "Hex", "R", "G", "B".  
 
+# Sample Outputs
+![image](https://github.com/sabariraj01/Color_Detection/assets/114046096/03f92c35-8ba5-4ac1-be13-040fe077d433)
+
+
 # Contributions
 Contributions to the project are welcome. Feel free to open issues, suggest improvements, or submit pull requests.  
 
